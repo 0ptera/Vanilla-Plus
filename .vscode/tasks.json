@@ -1,0 +1,24 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "update archive",
+      "type": "shell",
+      "command": "C:\\'Program Files'\\WinRAR\\WinRAR.exe",
+      "args": [
+        "u",
+        "-ep1",
+        "C:\\Steam\\steamapps\\common\\SnowRunner\\preload\\paks\\client\\initial.pak",
+        "${workspaceFolder}\\[media]",
+        "${workspaceFolder}\\[strings]"
+      ],
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

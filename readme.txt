@@ -40,6 +40,8 @@ Trucks:
   - 3 slot sideboard and flatbed allows loading crane + trailer
   - added US heavy crane
   - added Tatra t815 roof rack
+- Ford F750
+  - added Scout Trailers
 - Kenworth 963 - H6 15.OL Wanderer
   - increased Torque to 292.000
 - Khan 39 Marshall

@@ -65,6 +65,8 @@ Trucks:
   - added low saddle
 - Tayga 6455b
   - added Maintaince Addon
+- WS Twinsteer 6900
+  - added trailer hitch
 
 Trailers:
 - Heavy Fuel Tanker (high saddle) available for purchase

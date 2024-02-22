@@ -27,7 +27,6 @@ Addons:
   - available for all trucks
 - Sideboard bed and Flatbed
   - available on Tatras
-- removed drag from all roof racks and trunks
 
 Trucks:
 - Azov 42-20 Antarctic:

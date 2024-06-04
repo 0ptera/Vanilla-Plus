@@ -60,7 +60,6 @@ Trucks:
   - added low saddle
   - added Khan Loaf roof rack, only usable with tow addon
 - Tatra Phoenix
-  - always on difflock
   - added low saddle
 - Tayga 6455b
   - added Maintaince Addon

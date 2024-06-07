@@ -71,7 +71,7 @@
 <Truck>
 	<TruckData
 		BackSteerSpeed="0.015"
-		DiffLockType="Always"
+		DiffLockType="Installed"
 		EngineIconMesh="env/engine_pacific_p16"
 		EngineIconScale="0.8"
 		EngineStartDelay="3.2"
@@ -424,10 +424,7 @@
 			<Socket Names="TatraFrameAddonTow" NamesBlock="TatraFrameAddonTow, Trailer, LargeSemitrailerOiltank" />
 		</AddonSockets>
 		<AddonSockets>
-			<Socket Names="Khanlo4fRoofrack" Offset="(-2.0; -0.5; 0)" NamesBlock="TatraSideboard, TatraFrameAddonTank, SaddleHigh, SaddleLow" />
-		</AddonSockets>
-		<AddonSockets>
-			<Socket Names="TatraCrane" Offset="(0; 0.2; 0)" NamesBlock="TatraForceT8157Fender, TatraFrameAddonTank" />
+			<Socket Names="TatraCrane" Offset="(0; 0.2; 0)" NamesBlock="TatraFrameAddonTank" />
 		</AddonSockets>
 		<AddonSockets DefaultAddon="tatra_force_t815_7_bumper_default">
 			<Socket Names="TatraForceT8157Bumper" />

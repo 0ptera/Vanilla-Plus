@@ -51,7 +51,7 @@
 <Truck>
 	<TruckData
 		BackSteerSpeed="0.015"
-		DiffLockType="Always"
+		DiffLockType="Installed"
 		EngineIconMesh="env/engine_pacific_p16"
 		EngineIconScale="0.8"
 		EngineStartDelay="3.2"

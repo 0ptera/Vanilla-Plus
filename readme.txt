@@ -43,6 +43,8 @@ Trucks:
   - added Scout Trailers
 - Kenworth 963 - H6 15.OL Wanderer
   - increased Torque to 292.000
+- International Loadstar
+  - added 1 slot sideboard bed
 - Khan 39 Marshall
   - added scout tow hitch, blocked by spare wheel
 - Pacific p512

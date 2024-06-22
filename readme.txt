@@ -43,11 +43,14 @@ Trucks:
   - added Scout Trailers
 - Kenworth 963 - H6 15.OL Wanderer
   - increased Torque to 292.000
+- International Paystar 5600TS
+  - increased fuel capacity to 380L
 - International Loadstar
   - added 1 slot sideboard bed
 - Khan 39 Marshall
   - added scout tow hitch, blocked by spare wheel
 - Pacific p512
+  - increased fuel capacity to 300L
   - added purchasable AWD
 - Royal BM17
   - added purchasable diff lock

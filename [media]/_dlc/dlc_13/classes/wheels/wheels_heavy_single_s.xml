@@ -65,7 +65,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="15"
 			>
-				<UiDesc UiDesc="UI_DLC_TIRE_SUPERHEAVY_MUDTIRES_SINGLE_1_DESC" UiName="UI_DLC_TIRE_SUPERHEAVY_MUDTIRES_SINGLE_1_NAME" />
+				<UiDesc UiDesc="UI_DLC_TIRE_PLAD_MUDTIRES_SINGLE_1_DESC" UiName="UI_DLC_TIRE_PLAD_MUDTIRES_SINGLE_1_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_dlc8_offroad_single_2" Name="mudtires_3">
@@ -75,7 +75,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="14"
 			>
-				<UiDesc UiDesc="UI_DLC_TIRE_SUPERHEAVY_MUDTIRES_SINGLE_2_DESC" UiName="UI_DLC_TIRE_SUPERHEAVY_MUDTIRES_SINGLE_2_NAME" />
+				<UiDesc UiDesc="UI_DLC_TIRE_PLAD_MUDTIRES_SINGLE_2_DESC" UiName="UI_DLC_TIRE_PLAD_MUDTIRES_SINGLE_2_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_dlc8_offroad_single_3" Name="mudtires_4">
@@ -85,7 +85,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="14"
 			>
-				<UiDesc UiDesc="UI_DLC_TIRE_SUPERHEAVY_MUDTIRES_SINGLE_3_DESC" UiName="UI_DLC_TIRE_SUPERHEAVY_MUDTIRES_SINGLE_3_NAME" />
+				<UiDesc UiDesc="UI_DLC_TIRE_PLAD_MUDTIRES_SINGLE_3_DESC" UiName="UI_DLC_TIRE_PLAD_MUDTIRES_SINGLE_3_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

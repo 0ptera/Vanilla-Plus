@@ -17,7 +17,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_OFFROAD_13_DESC" UiName="UI_TIRE_SUPERHEAVY_OFFROAD_13_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_OFFROAD_13_DESC" UiName="UI_TIRE_PLAD_OFFROAD_13_NAME" />
 			</GameData>
 		</TruckTire>
         <TruckTire _template="Offroad" Mesh="wheels/tire_heavy_offroad_single_14" Name="JAT OHS II">
@@ -27,7 +27,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_OFFROAD_14_DESC" UiName="UI_TIRE_SUPERHEAVY_OFFROAD_14_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_OFFROAD_14_DESC" UiName="UI_TIRE_PLAD_OFFROAD_14_NAME" />
 			</GameData>
 		</TruckTire>
         <TruckTire _template="Offroad" Mesh="wheels/tire_heavy_offroad_single_15" Name="JAT OHS III">
@@ -37,7 +37,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_OFFROAD_15_DESC" UiName="UI_TIRE_SUPERHEAVY_OFFROAD_15_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_OFFROAD_15_DESC" UiName="UI_TIRE_PLAD_OFFROAD_15_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

@@ -16,7 +16,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_MUDTIRES_13_DESC" UiName="UI_TIRE_SUPERHEAVY_MUDTIRES_13_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_MUDTIRES_13_DESC" UiName="UI_TIRE_PLAD_MUDTIRES_13_NAME" />
 			</GameData>
 		</TruckTire>
 			<TruckTire _template="Mudtires" Mesh="wheels/tire_heavy_mudtires_14" Name="JAT MHS V">
@@ -26,7 +26,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_MUDTIRES_14_DESC" UiName="UI_TIRE_SUPERHEAVY_MUDTIRES_14_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_MUDTIRES_14_DESC" UiName="UI_TIRE_PLAD_MUDTIRES_14_NAME" />
 			</GameData>
 		</TruckTire>
 			<TruckTire _template="Mudtires" Mesh="wheels/tire_heavy_mudtires_15" Name="JAT MHS VI">
@@ -36,7 +36,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_MUDTIRES_15_DESC" UiName="UI_TIRE_SUPERHEAVY_MUDTIRES_15_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_MUDTIRES_15_DESC" UiName="UI_TIRE_PLAD_MUDTIRES_15_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

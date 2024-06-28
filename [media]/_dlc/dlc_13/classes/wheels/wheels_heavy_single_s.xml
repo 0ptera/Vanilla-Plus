@@ -15,7 +15,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_ALLTERRAIN_SINGLE_1_DESC" UiName="UI_TIRE_SUPERHEAVY_ALLTERRAIN_SINGLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_ALLTERRAIN_SINGLE_1_DESC" UiName="UI_TIRE_PLAD_ALLTERRAIN_SINGLE_1_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_offroad_single_2" Name="offroad_1">
@@ -25,7 +25,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="11"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_OFFROAD_SINGLE_1_DESC" UiName="UI_TIRE_SUPERHEAVY_OFFROAD_SINGLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_OFFROAD_SINGLE_1_DESC" UiName="UI_TIRE_PLAD_OFFROAD_SINGLE_1_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_offroad_single_4" Name="offroad_2">
@@ -35,7 +35,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="11"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_OFFROAD_SINGLE_4_DESC" UiName="UI_TIRE_SUPERHEAVY_OFFROAD_SINGLE_4_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_OFFROAD_SINGLE_4_DESC" UiName="UI_TIRE_PLAD_OFFROAD_SINGLE_4_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_offroad_single_3" Name="mudtires_1">
@@ -45,7 +45,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="13"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_MUDTIRES_SINGLE_1_DESC" UiName="UI_TIRE_SUPERHEAVY_MUDTIRES_SINGLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_MUDTIRES_SINGLE_1_DESC" UiName="UI_TIRE_PLAD_MUDTIRES_SINGLE_1_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_chains_single_1" Name="chains_1">
@@ -55,7 +55,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="14"
 			>
-				<UiDesc UiDesc="UI_TIRE_SUPERHEAVY_CHAINS_SINGLE_1_DESC" UiName="UI_TIRE_SUPERHEAVY_CHAINS_SINGLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PLAD_CHAINS_SINGLE_1_DESC" UiName="UI_TIRE_PLAD_CHAINS_SINGLE_1_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_dlc8_offroad_single_1" Name="mudtires_2">

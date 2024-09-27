@@ -15,7 +15,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_HEAVY_MUDTIRES_ANKATRA_1160_NAME" UiName="UI_TIRE_HEAVY_MUDTIRES_ANKATRA_1160_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_MUDTIRES_ANKATRA_1160_DESC" UiName="UI_TIRE_HEAVY_MUDTIRES_ANKATRA_1160_NAME" />
 			</GameData>
 			<WheelTracks
                 TextureAlpha="tracks/kirovets_k7m_base_alpha__s_d.tga"

@@ -21,7 +21,7 @@
 				AddonUnlockByObjective="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_OFFROAD_DESC" UiName="UI_TIRE_MEDIUM_OFFROAD_EARTHROAMER_NAME" />
+				<UiDesc UiDesc="UI_TIRE_MEDIUM_OFFROAD_EARTHROAMER_DESC" UiName="UI_TIRE_MEDIUM_OFFROAD_EARTHROAMER_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

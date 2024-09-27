@@ -9,8 +9,6 @@ Added crane sockets for logs
 
 Additional paint schemes for all trucks
 
-Capped AWD consumption at +10%
-
 Tires:
 - rebalanced DMHS tire performance to match visuals and price:
   - DMHS I:   Road 1.0, Dirt 2.0, Mud 2.4
@@ -35,6 +33,10 @@ Trucks:
   - added Khan Loaf roof rack
 - Azov 5319:
   - flatbed and sideboard bed move loading crane forward
+- Azov 670963n Atom:
+  - medium log frame allows log lift, moves lift forwards
+  - medium log frame allows rear loading crane, moves log frame forward
+  - small log frame allows rear loading crane, moves log frame forward
 - Azov 73210:
   - 3 slot sideboard and flatbed allows loading crane + trailer
   - added US heavy crane

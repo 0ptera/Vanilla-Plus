@@ -44,7 +44,7 @@ Trucks:
 - Ford F750
   - added Scout Trailers
 - Kenworth 963 - H6 15.OL Wanderer
-  - increased Torque to 292.000
+  - added Gb-8V 3500T
 - International Paystar 5600TS
   - increased fuel capacity to 380L
 - International Loadstar

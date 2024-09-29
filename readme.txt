@@ -43,8 +43,11 @@ Trucks:
   - added Tatra t815 roof rack
 - Ford F750
   - added Scout Trailers
+- GMC 9500
+  - added Futom Log Trailers
 - Kenworth 963 - H6 15.OL Wanderer
   - added Gb-8V 3500T
+  - added Futom Log Trailers
 - International Paystar 5600TS
   - increased fuel capacity to 380L
 - International Loadstar
@@ -67,6 +70,8 @@ Trucks:
   - added Maintaince Addon
 - WS Twinsteer 6900
   - added trailer hitch
+- ZikZ 605r
+  - added Futom Log Trailers
 
 Trailers:
 - Heavy Fuel Tanker (high saddle) available for purchase

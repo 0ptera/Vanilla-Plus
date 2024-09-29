@@ -658,11 +658,11 @@
 			<Socket Names="FrameAddonLogMediumHighKenworth" NamesBlock="SaddleHigh, FrameAddon3,FrameAddonSideboard3,FrameAddonTankLong, FrameAddonTank, MinicraneKenworth, Kenworth963SpareWheel" Offset="(-3.807; 1.827; 0)">
 				<AddonsShift Offset="(-0.45; 0; 0)" Types="LogLiftKenworth" />
 			</Socket>
-			<Socket Names="FrameAddonTowPlatform" NamesBlock="SaddleHigh, Trailer,FrameAddon3, FrameAddonSideboard3, FrameAddonTankLong, FrameAddonTank, LogLiftKenworth" Offset="(-3.85; 1.9; 0)">
+			<Socket Names="FrameAddonTowPlatform" NamesBlock="SaddleHigh, Trailer, LogTrailer,FrameAddon3, FrameAddonSideboard3, FrameAddonTankLong, FrameAddonTank, LogLiftKenworth" Offset="(-3.85; 1.9; 0)">
 				<AddonsShift Offset="(-0.22; 0; 0)" Types="MinicraneKenworth" />
 				<AddonsShift Offset="(-0.22; 0; 0)" Types="Kenworth963SpareWheel2" />
 			</Socket>
-			<Socket Names="KenworthFrameAddonMaintainerBig" NamesBlock="FrameAddonTankLong, Trailer, SaddleHigh, FrameAddonSideboard3, FrameAddon3, Kenworth963SpareWheel2, LogLiftKenworth, FrameAddonTank, MinicraneKenworth" Offset="(-0.4; 1.94; 0)" />
+			<Socket Names="KenworthFrameAddonMaintainerBig" NamesBlock="FrameAddonTankLong, Trailer, LogTrailer, SaddleHigh, FrameAddonSideboard3, FrameAddon3, Kenworth963SpareWheel2, LogLiftKenworth, FrameAddonTank, MinicraneKenworth" Offset="(-0.4; 1.94; 0)" />
 			<Socket Names="FrameAddonTank" Offset="(-5.453; 1.827; 0)" NamesBlock="FrameAddonTankLong, FrameAddonSideboard3, FrameAddon3, LogLiftKenworth, FrameAddonTank, MinicraneKenworth">
 				<AddonsShift Offset="(2.7; 0; 0)" TrailerNamesBlock="LargeSemitrailerOiltank, LogLiftKenworth, Kenworth963SpareWheel, Kenworth963SpareWheel2, MinicraneKenworth" Types="SaddleHigh" />
 			</Socket>
@@ -715,7 +715,7 @@
 		</AddonSockets>
 		<AddonSockets>
 			<Socket Names=" LargeSemitrailer, LargeSemitrailerOiltank" NamesBlock="BunkLog, FrameAddon, FrameAddonLogShort, FrameAddonLogMedium, FrameAddonSeismicVibrator, FrameAddonTankLong, FrameAddonTowPlatform, FrameAddonKung" Offset="(-6.2; 2.33; 0)" />
-			<Socket Names="Trailer" Offset="(-7.852; 1.405; 0)">
+			<Socket Names="Trailer, LogTrailer" Offset="(-7.852; 1.405; 0)">
 				<AddonsShift Offset="(-0.04; -0.4; 0)" Types="FlatbedKenworth1" />
 				<AddonsShift Offset="(-0.04; -0.4; 0)" Types="FlatbedKenworth2" />
 			</Socket>

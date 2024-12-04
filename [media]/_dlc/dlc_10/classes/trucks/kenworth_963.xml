@@ -164,7 +164,7 @@
 		<Intake Dir="(1; 0; 0)" Origin="(4.419; 2.13; 0)" Size="1.2" />
 		<GearboxSocket Default="g_special_kenworth_963" Type="gearboxes_special_kenworth_963" />
 		<FuelTank DamageCapacity="50" />
-		<EngineSocket Default="us_truck_old_heavy_engine_0" Type="e_us_truck_old_kenworth_963, e_us_truck_modern_derry_special" />
+		<EngineSocket Default="us_truck_old_heavy_engine_0" Type="e_us_truck_old_kenworth_963" />
 		<Driver
 			AnimationSet="Truck"
 			LegsOffset="(0; 0.03; 0)"

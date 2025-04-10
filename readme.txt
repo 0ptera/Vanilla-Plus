@@ -7,8 +7,6 @@ Removed winch points from weak shrubs
 
 Added crane sockets for logs
 
-Additional paint schemes for all trucks
-
 Tires:
 - rebalanced DMHS tire performance to match visuals and price:
   - DMHS I:   Road 1.0, Dirt 2.0, Mud 2.4

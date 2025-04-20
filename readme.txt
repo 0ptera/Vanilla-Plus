@@ -44,7 +44,6 @@ Trucks:
 - GMC 9500
   - added Futom Log Trailers
 - Kenworth 963
-  - increased H6 15.OL Wanderer torque to 292k
   - added Futom Log Trailers
 - International Paystar 5600TS
   - increased fuel capacity to 380L

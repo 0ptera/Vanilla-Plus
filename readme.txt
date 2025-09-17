@@ -5,7 +5,7 @@ English localization:
 
 Removed winch points from weak shrubs
 
-Added crane sockets for logs
+Added crane attachment points to logs
 
 Tires:
 - rebalanced DMHS tire performance to match visuals and price:
@@ -36,6 +36,7 @@ Trucks:
   - medium log frame allows rear loading crane, moves log frame forward
   - small log frame allows rear loading crane, moves log frame forward
 - Azov 73210:
+  - allow Extended Double Logging Semi-Trailer
   - 3 slot sideboard and flatbed allows loading crane + trailer
   - added US heavy crane
   - added Tatra t815 roof rack
@@ -45,16 +46,16 @@ Trucks:
   - added Futom Log Trailers
 - Kenworth 963
   - added Futom Log Trailers
-- International Paystar 5600TS
-  - increased fuel capacity to 380L
 - International Loadstar
   - added 1 slot sideboard bed
 - Khan 39 Marshall
   - added scout tow hitch, blocked by spare wheel
+- Mack Defense M917
+  - allow Extended Double Logging Semi-Trailer
 - Pacific p512
-  - increased fuel capacity to 300L
   - added purchasable AWD
 - Royal BM17
+  - allow Extended Double Logging Semi-Trailer
   - added purchasable diff lock
 - Tatra t813
   - added low saddle

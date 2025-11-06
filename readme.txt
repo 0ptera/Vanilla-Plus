@@ -48,15 +48,16 @@ Trucks:
   - added Futom Log Trailers
 - International Loadstar
   - added 1 slot sideboard bed
-- Khan 39 Marshall
-  - added scout tow hitch, blocked by spare wheel
 - Mack Defense M917
   - allow Extended Double Logging Semi-Trailer
+  - allow Log Lift with saddle
 - Pacific p512
   - added purchasable AWD
 - Royal BM17
   - allow Extended Double Logging Semi-Trailer
   - added purchasable diff lock
+- Sleiter ST833 Chimera
+  - added Futom Log Trailers
 - Tatra t813
   - added low saddle
   - added Van Body and Maintaince Addon

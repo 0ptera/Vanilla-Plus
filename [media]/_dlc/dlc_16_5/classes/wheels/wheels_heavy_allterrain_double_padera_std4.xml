@@ -5,7 +5,7 @@
 			<WheelTracks _template="DefaultDouble" Rear="true" />
 			<WheelSoftness _template="Stiff" />
 			<WheelFriction _template="Allterrain" />
-		</Allterrain>     
+		</Allterrain>
 	</TruckTire>
 </_templates>
 <TruckWheels DamageCapacity="50" Radius="1" Width="0.62" WidthRear="1.24" Mass="200">
@@ -17,7 +17,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_ALLTERRAIN_DESC" UiName="UI_TIRE_HEAVY_ALLTERRAIN_DOUBLE_10_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_ALLTERRAIN_PADERA_STD4_10_DESC" UiName="UI_TIRE_HEAVY_ALLTERRAIN_PADERA_STD4_10_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_heavy_allterrain_double_11" Name="JAT ATHD II">
@@ -27,7 +27,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_ALLTERRAIN_DESC" UiName="UI_TIRE_HEAVY_ALLTERRAIN_DOUBLE_11_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_ALLTERRAIN_PADERA_STD4_11_DESC" UiName="UI_TIRE_HEAVY_ALLTERRAIN_PADERA_STD4_11_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_heavy_allterrain_double_12" Name="JAT ATHD III">
@@ -37,7 +37,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_ALLTERRAIN_DESC" UiName="UI_TIRE_HEAVY_ALLTERRAIN_DOUBLE_12_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_ALLTERRAIN_PADERA_STD4_12_DESC" UiName="UI_TIRE_HEAVY_ALLTERRAIN_PADERA_STD4_12_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

@@ -5,7 +5,7 @@
 			<WheelTracks _template="DefaultDouble" Rear="true" />
 			<WheelSoftness _template="Stiff" />
 			<WheelFriction _template="Highway" />
-		</Highway>    
+		</Highway>
 	</TruckTire>
 </_templates>
 <TruckWheels DamageCapacity="50" Radius="1" Width="0.45" WidthRear="0.90" Mass="200">
@@ -18,7 +18,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_HIGHWAY_DESC" UiName="UI_TIRE_HEAVY_HIGHWAY_DOUBLE_10_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_HIGHWAY_PADERA_STD4_10_DESC" UiName="UI_TIRE_HEAVY_HIGHWAY_PADERA_STD4_10_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Highway" Mesh="wheels/tire_heavy_highway_double_11" Name="JAT HHD II">
@@ -28,7 +28,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_HIGHWAY_DESC" UiName="UI_TIRE_HEAVY_HIGHWAY_DOUBLE_11_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_HIGHWAY_PADERA_STD4_11_DESC" UiName="UI_TIRE_HEAVY_HIGHWAY_PADERA_STD4_11_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Highway" Mesh="wheels/tire_heavy_highway_double_12" Name="JAT HHD III">
@@ -38,10 +38,10 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_HIGHWAY_DESC" UiName="UI_TIRE_HEAVY_HIGHWAY_DOUBLE_12_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_HIGHWAY_PADERA_STD4_12_DESC" UiName="UI_TIRE_HEAVY_HIGHWAY_PADERA_STD4_12_NAME" />
 			</GameData>
 		</TruckTire>
-		
+
 	</TruckTires>
 	<TruckRims>
 		<TruckRim Mesh="wheels/rim_heavy_highway_double_10" Name="JAT HD I">

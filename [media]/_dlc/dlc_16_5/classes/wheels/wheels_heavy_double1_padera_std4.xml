@@ -28,7 +28,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_HIGHWAY_DESC" UiName="UI_TIRE_MEDIUM_HIGHWAY_DOUBLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_MEDIUM_HIGHWAY_PADERA_STD4_1_DESC" UiName="UI_TIRE_MEDIUM_HIGHWAY_PADERA_STD4_1_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Highway" Mesh="wheels/tire_medium_highway_double_2" Name="highway_2">
@@ -38,7 +38,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_HIGHWAY_DESC" UiName="UI_TIRE_MEDIUM_HIGHWAY_DOUBLE_2_NAME" />
+				<UiDesc UiDesc="UI_TIRE_MEDIUM_HIGHWAY_PADERA_STD4_2_DESC" UiName="UI_TIRE_MEDIUM_HIGHWAY_PADERA_STD4_2_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Highway" Mesh="wheels/tire_medium_highway_double_3" Name="highway_3">
@@ -48,7 +48,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_HIGHWAY_DESC" UiName="UI_TIRE_MEDIUM_HIGHWAY_DOUBLE_3_NAME" />
+				<UiDesc UiDesc="UI_TIRE_MEDIUM_HIGHWAY_PADERA_STD4_3_DESC" UiName="UI_TIRE_MEDIUM_HIGHWAY_PADERA_STD4_3_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_medium_allterrain_double_1" Name="allterrain_1">
@@ -58,7 +58,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="9"
 			>
-				<UiDesc UiDesc="UI_TIRE_ALLTERRAIN_DESC" UiName="UI_TIRE_MEDIUM_ALLTERRAIN_DOUBLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_MEDIUM_ALLTERRAIN_PADERA_STD4_1_DESC" UiName="UI_TIRE_MEDIUM_ALLTERRAIN_PADERA_STD4_1_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_medium_allterrain_double_2" Name="allterrain_2">
@@ -68,7 +68,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="9"
 			>
-				<UiDesc UiDesc="UI_TIRE_ALLTERRAIN_DESC" UiName="UI_TIRE_MEDIUM_ALLTERRAIN_DOUBLE_2_NAME" />
+				<UiDesc UiDesc="UI_TIRE_MEDIUM_ALLTERRAIN_PADERA_STD4_2_DESC" UiName="UI_TIRE_MEDIUM_ALLTERRAIN_PADERA_STD4_2_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_medium_allterrain_double_3" Name="allterrain_3">
@@ -78,7 +78,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="9"
 			>
-				<UiDesc UiDesc="UI_TIRE_ALLTERRAIN_DESC" UiName="UI_TIRE_MEDIUM_ALLTERRAIN_DOUBLE_3_NAME" />
+				<UiDesc UiDesc="UI_TIRE_MEDIUM_ALLTERRAIN_PADERA_STD4_3_DESC" UiName="UI_TIRE_MEDIUM_ALLTERRAIN_PADERA_STD4_3_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>
@@ -113,7 +113,7 @@
 				<UiDesc UiDesc="UI_RIM_MEDIUM_DOUBLE_6_DESC" UiName="UI_RIM_MEDIUM_DOUBLE_6_NAME" />
 			</GameData>
 		</TruckRim>
-		
+
 		<!-- New Rims -->
 		<TruckRim Mesh="wheels/rim_medium_highway_double_10" Name="JAT HD I">
 			<GameData>

@@ -15,7 +15,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_ALLTERRAIN_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

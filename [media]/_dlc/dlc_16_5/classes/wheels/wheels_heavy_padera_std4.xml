@@ -22,7 +22,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_OFFROAD_DESC" UiName="UI_TIRE_PADERA_STD4_NAME" />
+				<UiDesc UiDesc="UI_TIRE_PADERA_STD4_DESC" UiName="UI_TIRE_PADERA_STD4_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

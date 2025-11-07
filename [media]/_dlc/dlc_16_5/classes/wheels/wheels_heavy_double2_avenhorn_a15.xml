@@ -22,7 +22,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="11"
 			>
-				<UiDesc UiDesc="UI_TIRE_OFFROAD_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_DOUBLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_1_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_1_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_offroad_double_2" Name="offroad_2">
@@ -32,7 +32,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="11"
 			>
-				<UiDesc UiDesc="UI_TIRE_OFFROAD_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_DOUBLE_2_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_2_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_2_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_offroad_double_3" Name="offroad_3">
@@ -42,7 +42,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="11"
 			>
-				<UiDesc UiDesc="UI_TIRE_OFFROAD_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_DOUBLE_3_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_3_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_AVENHORN_A15_3_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_chains_double_1" Name="chains_2">
@@ -52,7 +52,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_CHAINS_DESC" UiName="UI_TIRE_HEAVY_CHAINS_DOUBLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_CHAINS_AVENHORN_A15_1_DESC" UiName="UI_TIRE_HEAVY_CHAINS_AVENHORN_A15_1_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

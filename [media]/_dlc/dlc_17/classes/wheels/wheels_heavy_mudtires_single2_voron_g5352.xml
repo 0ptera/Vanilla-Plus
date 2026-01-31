@@ -7,7 +7,7 @@
 		</Mudtires>
 	</TruckTire>
 </_templates>
-<TruckWheels DamageCapacity="50" Radius="1" Width="0.79" Mass="200">
+<TruckWheels DamageCapacity="50" Radius="1" Width="0.79" >
 	<TruckTires>
 		<TruckTire _template="Mudtires" Mesh="wheels/tire_heavy_mudtires_13" Name="JAT MHS IV">
 			<WheelFriction _template="Mudtires" BodyFriction="1.8" BodyFrictionAsphalt="0.4" SubstanceFriction="2.6"/>

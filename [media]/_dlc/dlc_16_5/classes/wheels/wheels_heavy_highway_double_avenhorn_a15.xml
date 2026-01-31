@@ -8,7 +8,7 @@
 		</Highway>
 	</TruckTire>
 </_templates>
-<TruckWheels DamageCapacity="50" Radius="1" Width="0.45" WidthRear="0.90" Mass="200">
+<TruckWheels DamageCapacity="50" Radius="1" Width="0.45" WidthRear="0.90" >
 	<TruckTires>
         <!-- Highway tires -->
         <TruckTire _template="Highway" Mesh="wheels/tire_heavy_highway_double_10" Name="JAT HHD I">

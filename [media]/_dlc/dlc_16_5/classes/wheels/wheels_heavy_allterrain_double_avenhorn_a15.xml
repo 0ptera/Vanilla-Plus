@@ -8,7 +8,7 @@
 		</Allterrain>
 	</TruckTire>
 </_templates>
-<TruckWheels DamageCapacity="50" Radius="1" Width="0.62" WidthRear="1.24" Mass="200">
+<TruckWheels DamageCapacity="50" Radius="1" Width="0.62" WidthRear="1.24" >
 	<TruckTires>
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_heavy_allterrain_double_10" Name="JAT ATHD I">
 			<WheelFriction _template="Allterrain" BodyFriction="1.7" BodyFrictionAsphalt="1.5" SubstanceFriction="1"/>

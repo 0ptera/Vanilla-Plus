@@ -8,7 +8,7 @@
 		</Offroad>
 	</TruckTire>
 </_templates>
-<TruckWheels DamageCapacity="50" Radius="1" Width="0.62" WidthRear="1.24" Mass="200">
+<TruckWheels DamageCapacity="50" Radius="1" Width="0.62" WidthRear="1.24" >
 	<TruckTires>
         <!-- Offroad tires -->
         <TruckTire _template="Offroad" Mesh="wheels/tire_heavy_offroad_double_10" Name="JAT OHD I">

@@ -27,10 +27,6 @@ Addons:
 Trucks:
 - Azov 42-20 Antarctic:
   - added Van Body
-- Azov 43-191 Sprinter
-  - added Khan Loaf roof rack
-- Azov 5319:
-  - flatbed and sideboard bed move loading crane forward
 - Azov 670963n Atom:
   - medium log frame allows log lift, moves lift forwards
   - medium log frame allows rear loading crane, moves log frame forward
@@ -49,6 +45,7 @@ Trucks:
 - International Loadstar
   - added 1 slot sideboard bed
 - Mack Defense M917
+  - AWD can be turned off
   - allow Extended Double Logging Semi-Trailer
   - allow Log Lift with saddle
 - Pacific p512

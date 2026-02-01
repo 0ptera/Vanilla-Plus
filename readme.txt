@@ -1,5 +1,4 @@
 English localization:
-- Cargo names include weight and slots
 - Tire descriptions show grip, weight, width
 - Engine descriptions show torque
 

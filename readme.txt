@@ -20,6 +20,8 @@ Addons:
   - available on all minicrane slots
 - Tatra sideboard bed
   - available for all trucks
+- Voron G5352 sideboard bed
+  - available for all trucks
 - Sideboard bed and Flatbed
   - available on Tatras
 

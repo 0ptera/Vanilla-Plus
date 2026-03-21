@@ -144,7 +144,8 @@
 		</Dashboard>
 		<Damage>
 			<DamageArea Type="Engine" Min="(2.049; 0.631; -0.5)" Max="(3.705; 1.631; 0.5)" />
-			<DamageArea Type="FuelTank" Min="(-1; 0.65; -1.3)" Max="(0.3; 1.358; 1.3)" />
+			<DamageArea Type="FuelTank" Min="(-0.646; 0.683; -1.229)" Max="(0.018; 1.300; -0.590)" />
+			<DamageArea Type="FuelTank" Min="(-0.646; 0.683; 0.590)" Max="(0.018; 1.300; 1.229)" />
 		</Damage>
 		<CompatibleWheels RearOffsetZ="0.04" Scale="0.64" Type="wheels_tatra_t813" />
 		<CompatibleWheels RearOffsetZ="0.04" Scale="0.64" Type="wheels_heavy_single" />

@@ -16,8 +16,6 @@ Tires:
   - Scouts: Road 0.4, Dirt 2.0, Mud 1.6
 
 Addons:
-- Ford f750 supply addon
-  - available on all minicrane slots
 - Tatra sideboard bed
   - available for all trucks
 - Voron G5352 sideboard bed
@@ -37,8 +35,6 @@ Trucks:
   - 3 slot sideboard and flatbed allows loading crane + trailer
   - added US heavy crane
   - added Tatra t815 roof rack
-- Ford F750
-  - added Scout Trailers
 - GMC 9500
   - added Futom Log Trailers
 - Kenworth 963
@@ -69,6 +65,3 @@ Trucks:
   - added trailer hitch
 - ZikZ 605r
   - added Futom Log Trailers
-
-Trailers:
-- Heavy Fuel Tanker (high saddle) available for purchase

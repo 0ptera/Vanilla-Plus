@@ -1,6 +1,6 @@
 <_templates Include="trucks">
 	<TruckTire>
-		<Offroad _template="Heavy">
+		<Offroad Mass="300">
 			<WheelTracks _template="Offroad" />
 			<WheelSoftness _template="Average" />
 		</Offroad>
@@ -15,7 +15,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_HEAVY_OFFROAD_SINGLE_P12_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_SINGLE_P12_NAME" />
+				<UiDesc UiDesc="UI_TIRE_ALLTERRAIN_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_SINGLE_P12_NAME" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

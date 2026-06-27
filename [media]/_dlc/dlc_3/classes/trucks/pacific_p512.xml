@@ -480,7 +480,7 @@
 			</Socket>
 		</AddonSockets>
 		<AddonSockets DefaultAddon="western_star_nf1424_transferbox_default">
-			<Socket Names="WSnf1424TransferBox" Offset="(0; 0; 0)" ParentFrame="BoneChassis_cdt"/>
+			<Socket Names="WSnf1424TransferBox" Offset="(-2.2; 0.1; 0)" ParentFrame="BoneChassis_cdt"/>
 		</AddonSockets>
 		<AddonSockets>
 			<Socket InCockpit="true" Names="pacificP512Sticker_1x1_01" ParentFrame="BoneCabin_cdt" />

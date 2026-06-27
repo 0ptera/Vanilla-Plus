@@ -61,6 +61,8 @@ Trucks:
   - added low saddle
 - Tayga 6455b
   - added Maintaince Addon
+- WS NF1430
+  - added purchasable diff lock
 - WS Twinsteer 6900
   - added trailer hitch
 - ZikZ 605r

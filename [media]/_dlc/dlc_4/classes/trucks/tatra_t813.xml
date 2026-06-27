@@ -326,7 +326,7 @@
 			<Socket Names="Semitrailer, SemitrailerOiltank" Offset="(-2.136; 1.507; 0)" />
 			<Socket Names="LargeSemitrailer, LargeSemitrailerOiltank" Offset="(-2.136; 1.649; 0)" />
 			<Socket Names="SemitrailerFoldableLog" NamesBlock="SaddleHigh" Offset="(-3.147; 1.500; 0)" >
-				<AddonsShift Offset="(0.2; 0.05; 0)" Types="SaddleMotorized" />
+				<AddonsShift Offset="(0.12; 0.05; 0)" Types="SaddleMotorized" />
 			</Socket>
 		</AddonSockets>
 		<AddonSockets>
@@ -337,7 +337,7 @@
 				<ExtraParent Frame="BoneChassis_cdt" Offset="(0; 0; -0.08)" />
 				<ExtraParent Frame="BoneChassis_cdt" Offset="(0; 0; 0.08)" />
 			</Socket>
-			<Socket Names="SaddleMotorized" Offset="(-1.600; -0.082; 0.000)" ParentFrame="BoneChassis_cdt" >
+			<Socket Names="SaddleMotorized" Offset="(-1.680; -0.082; 0.000)" ParentFrame="BoneChassis_cdt" >
 				<ExtraParent Frame="BoneChassis_cdt" Offset="(0.000; 0.000; -0.003)" />
 				<ExtraParent Frame="BoneChassis_cdt" Offset="(0.000; 0.000; 0.003)" />
 				<ExtraParent Frame="BoneChassis_cdt" Offset="(1.20; 0.000; -0.003)" />

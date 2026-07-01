@@ -47,6 +47,8 @@ Trucks:
   - allow Log Lift with saddle
 - Pacific p512
   - added purchasable AWD
+- Padera STD-4
+  - allow spare wheels + loading crane (only use with saddle!)
 - Royal BM17
   - allow Extended Double Logging Semi-Trailer
   - added purchasable diff lock

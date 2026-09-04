@@ -35,8 +35,6 @@ Trucks:
   - 3 slot sideboard and flatbed allows loading crane + trailer
   - added US heavy crane
   - added Tatra t815 roof rack
-- GMC 9500
-  - added Futom Log Trailers
 - Kenworth 963
   - added Futom Log Trailers
 - International Loadstar
@@ -47,11 +45,11 @@ Trucks:
   - allow Log Lift with saddle
 - Pacific p512
   - added purchasable AWD
-- Padera STD-4
-  - allow spare wheels + loading crane (only use with saddle!)
 - Royal BM17
   - allow Extended Double Logging Semi-Trailer
   - added purchasable diff lock
+- Mercedes Actros
+  - fixed low saddle
 - Sleiter ST833 Chimera
   - added Futom Log Trailers
 - Tatra t813

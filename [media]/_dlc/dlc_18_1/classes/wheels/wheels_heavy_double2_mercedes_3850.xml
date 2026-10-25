@@ -42,7 +42,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="11"
 			>
-				<UiDesc UiDesc="UI_TIREUI_TIRE_HEAVY_OFFROAD_DOUBLE_MERCEDES_3850_3_DESC_OFFROAD_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_DOUBLE_3_NAME" />
+				<UiDesc UiDesc="UI_TIRE_HEAVY_OFFROAD_DOUBLE_MERCEDES_3850_3_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_DOUBLE_3_NAME" />
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_chains_double_1" Name="chains_2">
